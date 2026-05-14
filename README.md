@@ -62,10 +62,6 @@ The analysis includes:
    jupyter notebook analyze_ab_test_results_project.ipynb
    ```
 
-## Data
-
-The dataset used in this project is available at `project_3/data/ab_data.csv`.
-
 ## Author
 
 **Marcos Roberto Souza** - [Statistics for Data Analysis Nanodegree](https://www.udacity.com/course/statistics-for-data-analysis-nanodegree--nd588), Udacity.
